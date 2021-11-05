@@ -4,7 +4,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, you can perform the following tasks:-
+
+Add any task with a description to the Todos list.
+Delete task item once it is done or not required anymore.
+            
+Note that: All the tasks data is being stored in the local storage which the application will automatically retrieve once the user revisits or refreshes the webpage.
+
 
 ### `npm start`
 
